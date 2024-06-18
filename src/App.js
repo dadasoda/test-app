@@ -1,17 +1,8 @@
-import React, { useState } from 'react'
+import React from 'react'
 
-const App = () => {
-
-  const [movies,setMovies] = useState([
-    {},
-    {},
-    {}
-  ])
-
+function App() {
   return (
-    <div>
-      <h1>리액트 시작하기</h1>
-    </div>
+    <div>App</div>
   )
 }
 

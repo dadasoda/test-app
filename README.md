@@ -21,3 +21,13 @@ ES7+ React/Redux/React-Native snippets
 rfce
 rafce
 
+#깃허브 파일 올리기
+git init 
+git remote add origin[원격저장소주소]
+git branch -M main
+
+git add .
+git commit -m "작업내용설명작성"
+git puch origin main
+
+
